@@ -1,5 +1,5 @@
 <?php
-namespace WP_Orginized_Media_Uploads;
+namespace WP_Organized_Media_Uploads;
 
 /**
  * Unistall

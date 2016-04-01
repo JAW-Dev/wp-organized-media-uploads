@@ -2,11 +2,11 @@
 /**
  * Search and Replace
  * 
- * WP_Orginized_Media_Uploads
- * WP Orginized Media Uploads
+ * WP_Organized_Media_Uploads
+ * WP Organized Media Uploads
  * WPOMU
  * wpomu
- * https://github.com/jawittdesigns/WP-Orginized-Media-Uploads
+ * https://github.com/jawittdesigns/WP-Organized-Media-Uploads
  * Jason Witt
  * contact@jawittdesigns.com
  * http://jawittdesigns.com
@@ -14,24 +14,24 @@
  *
  * Delete When Done!!!!
  */
-namespace WP_Orginized_Media_Uploads;
-use WP_Orginized_Media_Uploads\Helpers as Helpers;
-use WP_Orginized_Media_Uploads\Admin as Admin;
-use WP_Orginized_Media_Uploads\Publics as Publics;
-use WP_Orginized_Media_Uploads\Includes as Includes;
+namespace WP_Organized_Media_Uploads;
+use WP_Organized_Media_Uploads\Helpers as Helpers;
+use WP_Organized_Media_Uploads\Admin as Admin;
+use WP_Organized_Media_Uploads\Publics as Publics;
+use WP_Organized_Media_Uploads\Includes as Includes;
 /**
- * WP_Orginized_Media_Uploads
+ * WP_Organized_Media_Uploads
  * 
- * @package     WP Orginized Media Uploads
+ * @package     WP Organized Media Uploads
  * @author      Jason Witt <contact@jawittdesigns.com>
  * @copyright   Copyright (c) 2016, Jason Witt
  * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
  * @since       1.0.0
  * 
  * @wordpress-plugin
- * Plugin Name:       WP Orginized Media Uploads
- * Plugin URI:        https://github.com/jawittdesigns/WP-Orginized-Media-Uploads
- * Description:       A WordPress plugin for orginizing the media uploads directory
+ * Plugin Name:       WP Organized Media Uploads
+ * Plugin URI:        https://github.com/jawittdesigns/WP-Organized-Media-Uploads
+ * Description:       A WordPress plugin for organizing the media uploads directory
  * Version:           1.0.0
  * Author:            Jason Witt
  * Author URI:        http://jawittdesigns.com
@@ -39,7 +39,7 @@ use WP_Orginized_Media_Uploads\Includes as Includes;
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wpomu
  * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/jawittdesigns/WP-Orginized-Media-Uploads
+ * GitHub Plugin URI: https://github.com/jawittdesigns/WP-Organized-Media-Uploads
  * GitHub Branch:     master
  */
 

@@ -1,10 +1,10 @@
 <?php
-namespace WP_Orginized_Media_Uploads\Helpers; 
+namespace WP_Organized_Media_Uploads\Helpers; 
 /**
  * Autoloader
  *
- * @package    WP_Orginized_Media_Uploads
- * @subpackage WP_Orginized_Media_Uploads/Helpers
+ * @package    WP_Organized_Media_Uploads
+ * @subpackage WP_Organized_Media_Uploads/Helpers
  * @author     Jason Witt <contact@jawittdesigns.com>
  * @copyright  Copyright (c) 2016, Jason Witt
  * @license    http://opensource.org/licenses/gpl-2.0.php GNU Public License

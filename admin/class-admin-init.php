@@ -1,6 +1,6 @@
 <?php
-namespace WP_Orginized_Media_Uploads\Admin;
-use WP_Orginized_Media_Uploads\Admin\Controller as Controller;
+namespace WP_Organized_Media_Uploads\Admin;
+use WP_Organized_Media_Uploads\Admin\Controller as Controller;
 
 /**
  * Admin Instantiate

@@ -1,6 +1,6 @@
 <?php
-namespace WP_Orginized_Media_Uploads\Includes;
-use WP_Orginized_Media_Uploads\Includes\Controller as Controller;
+namespace WP_Organized_Media_Uploads\Includes;
+use WP_Organized_Media_Uploads\Includes\Controller as Controller;
 
 /**
  * Includes Instantiate

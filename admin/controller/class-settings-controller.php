@@ -1,12 +1,12 @@
 <?php
-namespace WP_Orginized_Media_Uploads\Admin\Controller;
-use WP_Orginized_Media_Uploads\Admin\Model as Model;
+namespace WP_Organized_Media_Uploads\Admin\Controller;
+use WP_Organized_Media_Uploads\Admin\Model as Model;
 
 /**
  * Settings Controller
  *
- * @package     WP_Orginized_Media_Uploads
- * @subpackage  WP_Orginized_Media_Uploads/Admin/Controller
+ * @package     WP_Organized_Media_Uploads
+ * @subpackage  WP_Organized_Media_Uploads/Admin/Controller
  * @author      Jason Witt <contact@jawittdesigns.com>
  * @copyright   Copyright (c) 2016, Jason Witt
  * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
